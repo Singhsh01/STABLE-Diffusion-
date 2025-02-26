@@ -26,6 +26,7 @@ https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main
 Save it in the data folder of the repository.
 
 Ensure that your directory structure looks like this:
+
 /your_project_directory/
     ├── data/
     │   ├── vocab.json
@@ -39,7 +40,7 @@ Ensure that your directory structure looks like this:
 
 In addition to the base model, you can use various fine-tuned versions of Stable Diffusion. These fine-tuned models have been trained to specialize in specific styles or types of images.
 
-InkPunk Diffusion: https://huggingface.co/Envvi/Inkpunk-Diffusion/tree/main
+InkPunk Diffusion: 
 A model fine-tuned for creating "InkPunk" style art.
 
 Link to the model  https://huggingface.co/Envvi/Inkpunk-Diffusion/tree/main
