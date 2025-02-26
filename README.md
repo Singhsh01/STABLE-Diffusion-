@@ -26,16 +26,6 @@ Tokenizer Files
 
 5.Save it in the data folder of the repository.
 
-Ensure that your directory structure looks like this:
-
-/your_project_directory/
-    ├── data/
-    │   ├── vocab.json
-    │   ├── merges.txt
-    │   └── v1-5-pruned-emaonly.ckpt
-    ├── your_code_files.py
-    ├── requirements.txt
-    └── README.md
 
 # 2. Tested Fine-Tuned Models
 
