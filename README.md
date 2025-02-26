@@ -17,13 +17,14 @@ pip install -r requirements.txt
 1. Download Weights and Tokenizer Files
 To run the Stable Diffusion model, you'll need the following files:
 Tokenizer Files
-Download vocab.json and merges.txt from the following URL:
-https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main/tokenizer
-Save these files in the data folder of the repository.
-Model Weights
-Download the v1-5-pruned-emaonly.ckpt checkpoint from:
-https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main
-Save it in the data folder of the repository.
+
+2. Download vocab.json and merges.txt from the following URL: https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main/tokenizer
+
+3. Save these files in the data folder of the repository.
+
+4. Model Weights: Download the v1-5-pruned-emaonly.ckpt checkpoint from: https://huggingface.co/stable-diffusion-v1-5/stable-diffusion-v1-5/tree/main
+
+5.Save it in the data folder of the repository.
 
 Ensure that your directory structure looks like this:
 
